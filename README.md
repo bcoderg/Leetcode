@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0556-next-greater-element-iii](https://github.com/bcoderg/Leetcode/tree/master/0556-next-greater-element-iii) |
+| [2050-count-good-numbers](https://github.com/bcoderg/Leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/bcoderg/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Matrix
 |  |
@@ -105,4 +106,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/bcoderg/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/bcoderg/Leetcode/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
