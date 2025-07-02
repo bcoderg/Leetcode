@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/bcoderg/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/bcoderg/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/bcoderg/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0556-next-greater-element-iii](https://github.com/bcoderg/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [2390-naming-a-company](https://github.com/bcoderg/Leetcode/tree/master/2390-naming-a-company) |
 | [3617-find-the-original-typed-string-i](https://github.com/bcoderg/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/bcoderg/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Stack
 |  |
 | ------- |
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/bcoderg/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [3618-find-the-original-typed-string-ii](https://github.com/bcoderg/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Recursion
 |  |
 | ------- |
