@@ -17,22 +17,23 @@ public:
     return res;
   }
   
-  int f(vector<vector<int>>&v , int index)
-  {
-    int n = v.size();
-    if (index >= n)return 0;
+//   int f(vector<vector<int>>&v , int index)
+//   {
+//     int n = v.size();
+//     if (index >= n)return 0;
 
-    if (dp[index] != -1)return dp[index];
+//     if (dp[index] != -1)return dp[index];
 
-    int nextIndex= getNextIndex(v , index + 1 ,  v[index][1]);
-    int take = v[index][2] + f(v, nextIndex);
-    int notTake = f(v, index + 1);
+//     int nextIndex= getNextIndex(v , index + 1 ,  v[index][1]);
+//     int take = v[index][2] + f(v, nextIndex);
+//     int notTake = f(v, index + 1);
 
-    return dp[index] = max(take , notTake);
-  }
+//     return dp[index] = max(take , notTake);
+//   }
+
   int jobScheduling(vector<int>& startTime, vector<int>& endTime, vector<int>& profit) {
     int n = startTime.size();
-    dp.assign(n + 1 , -1);
+    dp.assign(n + 1 , 0);
 
     vector<vector<int>>jobs(n , vector<int>(3));
     for (int i = 0; i < n; i++) {
@@ -41,6 +42,14 @@ public:
       jobs[i][2] = profit[i];
     }
     sort(jobs.begin() , jobs.end());
-    return f(jobs, 0);
+    //return f(jobs, 0);
+    for(int index=n-1;index>=0;index--)
+    {
+        int nextIndex= getNextIndex(jobs , index + 1 ,  jobs[index][1]);
+        int take = jobs[index][2] + dp[nextIndex];
+        int notTake = dp[index + 1];
+        dp[index] = max(take , notTake);
+    }
+    return dp[0];
   }
 };
