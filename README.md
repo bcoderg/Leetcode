@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/bcoderg/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bcoderg/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/bcoderg/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0753-open-the-lock](https://github.com/bcoderg/Leetcode/tree/master/0753-open-the-lock) |
 | [1036-rotting-oranges](https://github.com/bcoderg/Leetcode/tree/master/1036-rotting-oranges) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/bcoderg/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/bcoderg/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0496-next-greater-element-i](https://github.com/bcoderg/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/bcoderg/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0753-open-the-lock](https://github.com/bcoderg/Leetcode/tree/master/0753-open-the-lock) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/bcoderg/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/bcoderg/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2308-divide-array-into-equal-pairs](https://github.com/bcoderg/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/bcoderg/Leetcode/tree/master/0020-valid-parentheses) |
 | [0556-next-greater-element-iii](https://github.com/bcoderg/Leetcode/tree/master/0556-next-greater-element-iii) |
+| [0753-open-the-lock](https://github.com/bcoderg/Leetcode/tree/master/0753-open-the-lock) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/bcoderg/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2390-naming-a-company](https://github.com/bcoderg/Leetcode/tree/master/2390-naming-a-company) |
 | [3617-find-the-original-typed-string-i](https://github.com/bcoderg/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
@@ -191,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/bcoderg/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0753-open-the-lock](https://github.com/bcoderg/Leetcode/tree/master/0753-open-the-lock) |
 | [1036-rotting-oranges](https://github.com/bcoderg/Leetcode/tree/master/1036-rotting-oranges) |
 ## Design
 |  |
