@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2308-divide-array-into-equal-pairs](https://github.com/bcoderg/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2390-naming-a-company](https://github.com/bcoderg/Leetcode/tree/master/2390-naming-a-company) |
 | [2478-longest-nice-subarray](https://github.com/bcoderg/Leetcode/tree/master/2478-longest-nice-subarray) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/bcoderg/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2665-minimum-time-to-repair-cars](https://github.com/bcoderg/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/bcoderg/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/bcoderg/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2308-divide-array-into-equal-pairs](https://github.com/bcoderg/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2390-naming-a-company](https://github.com/bcoderg/Leetcode/tree/master/2390-naming-a-company) |
 | [2478-longest-nice-subarray](https://github.com/bcoderg/Leetcode/tree/master/2478-longest-nice-subarray) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/bcoderg/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/bcoderg/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/bcoderg/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/bcoderg/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -208,4 +210,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/bcoderg/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/bcoderg/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
