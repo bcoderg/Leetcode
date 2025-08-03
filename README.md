@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/bcoderg/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2665-minimum-time-to-repair-cars](https://github.com/bcoderg/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/bcoderg/Leetcode/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/bcoderg/Leetcode/tree/master/2689-rearranging-fruits) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/bcoderg/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3430-count-days-without-meetings](https://github.com/bcoderg/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/bcoderg/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/bcoderg/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2308-divide-array-into-equal-pairs](https://github.com/bcoderg/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2390-naming-a-company](https://github.com/bcoderg/Leetcode/tree/master/2390-naming-a-company) |
+| [2689-rearranging-fruits](https://github.com/bcoderg/Leetcode/tree/master/2689-rearranging-fruits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/bcoderg/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/bcoderg/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2681-put-marbles-in-bags](https://github.com/bcoderg/Leetcode/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/bcoderg/Leetcode/tree/master/2689-rearranging-fruits) |
 | [3430-count-days-without-meetings](https://github.com/bcoderg/Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Math
 |  |
@@ -128,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/bcoderg/Leetcode/tree/master/0135-candy) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/bcoderg/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2681-put-marbles-in-bags](https://github.com/bcoderg/Leetcode/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/bcoderg/Leetcode/tree/master/2689-rearranging-fruits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
