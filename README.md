@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bcoderg/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0055-jump-game](https://github.com/bcoderg/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/bcoderg/Leetcode/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/bcoderg/Leetcode/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/bcoderg/Leetcode/tree/master/0134-gas-station) |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/bcoderg/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/bcoderg/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/bcoderg/Leetcode/tree/master/0135-candy) |
 | [0778-reorganize-string](https://github.com/bcoderg/Leetcode/tree/master/0778-reorganize-string) |
@@ -182,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/bcoderg/Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/bcoderg/Leetcode/tree/master/0118-pascals-triangle) |
 | [0416-partition-equal-subset-sum](https://github.com/bcoderg/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/bcoderg/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
