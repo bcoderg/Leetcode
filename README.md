@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/bcoderg/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/bcoderg/Leetcode/tree/master/0135-candy) |
 | [0416-partition-equal-subset-sum](https://github.com/bcoderg/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/bcoderg/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/bcoderg/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bcoderg/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/bcoderg/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0056-merge-intervals](https://github.com/bcoderg/Leetcode/tree/master/0056-merge-intervals) |
 | [0295-find-median-from-data-stream](https://github.com/bcoderg/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0435-non-overlapping-intervals](https://github.com/bcoderg/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0594-longest-harmonious-subsequence](https://github.com/bcoderg/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/bcoderg/Leetcode/tree/master/0778-reorganize-string) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/bcoderg/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/bcoderg/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/bcoderg/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/bcoderg/Leetcode/tree/master/0135-candy) |
+| [0435-non-overlapping-intervals](https://github.com/bcoderg/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0778-reorganize-string](https://github.com/bcoderg/Leetcode/tree/master/0778-reorganize-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/bcoderg/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2681-put-marbles-in-bags](https://github.com/bcoderg/Leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -191,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/bcoderg/Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/bcoderg/Leetcode/tree/master/0118-pascals-triangle) |
 | [0416-partition-equal-subset-sum](https://github.com/bcoderg/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/bcoderg/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/bcoderg/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/bcoderg/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/bcoderg/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
