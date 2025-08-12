@@ -229,12 +229,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/bcoderg/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bcoderg/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1008-binary-tree-cameras](https://github.com/bcoderg/Leetcode/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/bcoderg/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/bcoderg/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bcoderg/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1008-binary-tree-cameras](https://github.com/bcoderg/Leetcode/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/bcoderg/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1428-jump-game-iii](https://github.com/bcoderg/Leetcode/tree/master/1428-jump-game-iii) |
@@ -243,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/bcoderg/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bcoderg/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1008-binary-tree-cameras](https://github.com/bcoderg/Leetcode/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/bcoderg/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/bcoderg/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -285,4 +288,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bcoderg/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bcoderg/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
