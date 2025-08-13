@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/bcoderg/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bcoderg/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/bcoderg/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/bcoderg/Leetcode/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/bcoderg/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/bcoderg/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bcoderg/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/bcoderg/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/bcoderg/Leetcode/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/bcoderg/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1428-jump-game-iii](https://github.com/bcoderg/Leetcode/tree/master/1428-jump-game-iii) |
@@ -249,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/bcoderg/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bcoderg/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/bcoderg/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/bcoderg/Leetcode/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/bcoderg/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/bcoderg/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -256,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/bcoderg/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0662-maximum-width-of-binary-tree](https://github.com/bcoderg/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0753-open-the-lock](https://github.com/bcoderg/Leetcode/tree/master/0753-open-the-lock) |
 | [1036-rotting-oranges](https://github.com/bcoderg/Leetcode/tree/master/1036-rotting-oranges) |
 | [1428-jump-game-iii](https://github.com/bcoderg/Leetcode/tree/master/1428-jump-game-iii) |
