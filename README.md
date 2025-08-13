@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/bcoderg/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/bcoderg/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bcoderg/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/bcoderg/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/bcoderg/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0753-open-the-lock](https://github.com/bcoderg/Leetcode/tree/master/0753-open-the-lock) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/bcoderg/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0460-lfu-cache](https://github.com/bcoderg/Leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/bcoderg/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/bcoderg/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/bcoderg/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0753-open-the-lock](https://github.com/bcoderg/Leetcode/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/bcoderg/Leetcode/tree/master/0778-reorganize-string) |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/bcoderg/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/bcoderg/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/bcoderg/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/bcoderg/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
