@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bcoderg/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0416-partition-equal-subset-sum](https://github.com/bcoderg/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/bcoderg/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0475-heaters](https://github.com/bcoderg/Leetcode/tree/master/0475-heaters) |
 | [0496-next-greater-element-i](https://github.com/bcoderg/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bcoderg/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/bcoderg/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bcoderg/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bcoderg/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0475-heaters](https://github.com/bcoderg/Leetcode/tree/master/0475-heaters) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/bcoderg/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/bcoderg/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/bcoderg/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/bcoderg/Leetcode/tree/master/0056-merge-intervals) |
 | [0295-find-median-from-data-stream](https://github.com/bcoderg/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/bcoderg/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0475-heaters](https://github.com/bcoderg/Leetcode/tree/master/0475-heaters) |
 | [0594-longest-harmonious-subsequence](https://github.com/bcoderg/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/bcoderg/Leetcode/tree/master/0778-reorganize-string) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/bcoderg/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -196,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/bcoderg/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0475-heaters](https://github.com/bcoderg/Leetcode/tree/master/0475-heaters) |
 | [0556-next-greater-element-iii](https://github.com/bcoderg/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/bcoderg/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Dynamic Programming
