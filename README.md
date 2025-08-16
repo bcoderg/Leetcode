@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/bcoderg/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2308-divide-array-into-equal-pairs](https://github.com/bcoderg/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2390-naming-a-company](https://github.com/bcoderg/Leetcode/tree/master/2390-naming-a-company) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bcoderg/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2689-rearranging-fruits](https://github.com/bcoderg/Leetcode/tree/master/2689-rearranging-fruits) |
 ## Bit Manipulation
 |  |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1008-binary-tree-cameras](https://github.com/bcoderg/Leetcode/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/bcoderg/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/bcoderg/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bcoderg/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -252,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-distribute-coins-in-binary-tree](https://github.com/bcoderg/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1428-jump-game-iii](https://github.com/bcoderg/Leetcode/tree/master/1428-jump-game-iii) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/bcoderg/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bcoderg/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -261,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1008-binary-tree-cameras](https://github.com/bcoderg/Leetcode/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/bcoderg/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/bcoderg/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bcoderg/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -269,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0753-open-the-lock](https://github.com/bcoderg/Leetcode/tree/master/0753-open-the-lock) |
 | [1036-rotting-oranges](https://github.com/bcoderg/Leetcode/tree/master/1036-rotting-oranges) |
 | [1428-jump-game-iii](https://github.com/bcoderg/Leetcode/tree/master/1428-jump-game-iii) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bcoderg/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Design
 |  |
 | ------- |
