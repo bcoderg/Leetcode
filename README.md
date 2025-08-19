@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/bcoderg/Leetcode/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/bcoderg/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/bcoderg/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bcoderg/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0475-heaters](https://github.com/bcoderg/Leetcode/tree/master/0475-heaters) |
 | [0496-next-greater-element-i](https://github.com/bcoderg/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bcoderg/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/bcoderg/Leetcode/tree/master/0041-first-missing-positive) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bcoderg/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/bcoderg/Leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/bcoderg/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/bcoderg/Leetcode/tree/master/0560-subarray-sum-equals-k) |
