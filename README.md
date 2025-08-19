@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/bcoderg/Leetcode/tree/master/0041-first-missing-positive) |
+| [0208-implement-trie-prefix-tree](https://github.com/bcoderg/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bcoderg/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/bcoderg/Leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/bcoderg/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bcoderg/Leetcode/tree/master/0020-valid-parentheses) |
+| [0208-implement-trie-prefix-tree](https://github.com/bcoderg/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0556-next-greater-element-iii](https://github.com/bcoderg/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0678-valid-parenthesis-string](https://github.com/bcoderg/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0753-open-the-lock](https://github.com/bcoderg/Leetcode/tree/master/0753-open-the-lock) |
@@ -284,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/bcoderg/Leetcode/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/bcoderg/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/bcoderg/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0460-lfu-cache](https://github.com/bcoderg/Leetcode/tree/master/0460-lfu-cache) |
 | [0931-maximum-frequency-stack](https://github.com/bcoderg/Leetcode/tree/master/0931-maximum-frequency-stack) |
@@ -316,4 +319,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bcoderg/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/bcoderg/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
