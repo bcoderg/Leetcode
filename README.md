@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/bcoderg/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0753-open-the-lock](https://github.com/bcoderg/Leetcode/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/bcoderg/Leetcode/tree/master/0778-reorganize-string) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/bcoderg/Leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/bcoderg/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2390-naming-a-company](https://github.com/bcoderg/Leetcode/tree/master/2390-naming-a-company) |
 | [3617-find-the-original-typed-string-i](https://github.com/bcoderg/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/bcoderg/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/bcoderg/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0931-maximum-frequency-stack](https://github.com/bcoderg/Leetcode/tree/master/0931-maximum-frequency-stack) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/bcoderg/Leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
