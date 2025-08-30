@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bcoderg/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0037-sudoku-solver](https://github.com/bcoderg/Leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/bcoderg/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/bcoderg/Leetcode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/bcoderg/Leetcode/tree/master/0045-jump-game-ii) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bcoderg/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/bcoderg/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/bcoderg/Leetcode/tree/master/0041-first-missing-positive) |
 | [0208-implement-trie-prefix-tree](https://github.com/bcoderg/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bcoderg/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -162,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/bcoderg/Leetcode/tree/master/0037-sudoku-solver) |
 | [1036-rotting-oranges](https://github.com/bcoderg/Leetcode/tree/master/1036-rotting-oranges) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/bcoderg/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Greedy
@@ -355,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bcoderg/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/bcoderg/Leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/bcoderg/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/bcoderg/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/bcoderg/Leetcode/tree/master/0078-subsets) |
