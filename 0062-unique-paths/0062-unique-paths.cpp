@@ -7,12 +7,13 @@ public:
         vector<int>pre(n,1);
 
         for(int i=1;i<m;i++){
-            vector<int>cur(n,1);
+            // vector<int>cur(n,1);
             for(int j=1;j<n;j++){
-                cur[j] = (pre[j] + cur[j-1]);
+                // cur[j] = (pre[j] + cur[j-1]); //pre[j] is cur[j] in pev step, we can reuse
+                pre[j] += pre[j-1];
             }
-            pre = cur;
-        }
+        //     pre = cur;
+         }
         return pre[n-1];
     }
 };
