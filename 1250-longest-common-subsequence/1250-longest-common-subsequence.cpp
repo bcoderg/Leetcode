@@ -25,19 +25,24 @@ public:
         return lcs(s1, s2, n, m);*/
 
         //tabulation
-        dp.assign(n+1  , vector<int>(m+1 , 0) );
-        for(int i=1;i<=n;i++){
-            for(int j=1;j<=m;j++){
+        //dp.assign(n + 1  , vector<int>(m + 1 , 0) );
+
+        //space optimised 
+        vector<int>prev(m+1,0);
+        for (int i = 1; i <= n; i++) {
+            vector<int>cur(m+1,0);
+            for (int j = 1; j <= m; j++) {
                 int ans = 0;
-        if (s1[i-1] == s2[j-1]) {
-            ans = 1 + dp[i - 1][j - 1];
-        }
-        else {
-            ans = max( dp[i - 1][j] , dp[i][j - 1] );
-        }
-        dp[i][j] = ans;
+                if (s1[i - 1] == s2[j - 1]) {
+                    ans = 1 + prev[j - 1];
+                }
+                else {
+                    ans = max( prev[j] , cur[j - 1] );
+                }
+                cur[j] = ans;
             }
+            prev=cur;
         }
-        return dp[n][m];
+        return prev[m];
     }
 };
