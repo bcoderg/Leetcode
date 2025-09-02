@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/bcoderg/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0753-open-the-lock](https://github.com/bcoderg/Leetcode/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/bcoderg/Leetcode/tree/master/0778-reorganize-string) |
+| [1250-longest-common-subsequence](https://github.com/bcoderg/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/bcoderg/Leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/bcoderg/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2390-naming-a-company](https://github.com/bcoderg/Leetcode/tree/master/2390-naming-a-company) |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0863-sum-of-distances-in-tree](https://github.com/bcoderg/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/bcoderg/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1008-binary-tree-cameras](https://github.com/bcoderg/Leetcode/tree/master/1008-binary-tree-cameras) |
+| [1250-longest-common-subsequence](https://github.com/bcoderg/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/bcoderg/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/bcoderg/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/bcoderg/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
