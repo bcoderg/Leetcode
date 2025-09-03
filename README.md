@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bcoderg/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0031-next-permutation](https://github.com/bcoderg/Leetcode/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/bcoderg/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/bcoderg/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bcoderg/Leetcode/tree/master/0040-combination-sum-ii) |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/bcoderg/Leetcode/tree/master/0031-next-permutation) |
 | [0295-find-median-from-data-stream](https://github.com/bcoderg/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0475-heaters](https://github.com/bcoderg/Leetcode/tree/master/0475-heaters) |
 | [0556-next-greater-element-iii](https://github.com/bcoderg/Leetcode/tree/master/0556-next-greater-element-iii) |
