@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/bcoderg/Leetcode/tree/master/0020-valid-parentheses) |
 | [0139-word-break](https://github.com/bcoderg/Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/bcoderg/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0443-string-compression](https://github.com/bcoderg/Leetcode/tree/master/0443-string-compression) |
 | [0556-next-greater-element-iii](https://github.com/bcoderg/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0678-valid-parenthesis-string](https://github.com/bcoderg/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0753-open-the-lock](https://github.com/bcoderg/Leetcode/tree/master/0753-open-the-lock) |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0031-next-permutation](https://github.com/bcoderg/Leetcode/tree/master/0031-next-permutation) |
 | [0295-find-median-from-data-stream](https://github.com/bcoderg/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0443-string-compression](https://github.com/bcoderg/Leetcode/tree/master/0443-string-compression) |
 | [0475-heaters](https://github.com/bcoderg/Leetcode/tree/master/0475-heaters) |
 | [0556-next-greater-element-iii](https://github.com/bcoderg/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/bcoderg/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
