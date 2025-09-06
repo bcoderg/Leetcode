@@ -20,15 +20,17 @@ public:
             int startIdx = q.front().second;
             int endIdx = q.back().second;
 
-            mx = max(mx , endIdx - startIdx + 1);
+            mx = max(mx , (int)endIdx - startIdx + 1);
 
             for(int i=0;i<sz;i++)
             {
                 auto [node,idx] = q.front();
                 q.pop();
 
+                idx -= startIdx;//trick to - startIdx , to avoid integer overflow
+
                 if(node->left!=nullptr)q.push({node->left , (long long)2*idx + 1});
-                if(node->right!=nullptr)q.push({node->right , (long long)2*idx + 2});
+                if(node->right!=nullptr)q.push({node->right , (long long)2*idx + 2}); 
             }
         }
         return mx;
