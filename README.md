@@ -320,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bcoderg/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bcoderg/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-sum-of-distances-in-tree](https://github.com/bcoderg/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
+| [0871-keys-and-rooms](https://github.com/bcoderg/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1008-binary-tree-cameras](https://github.com/bcoderg/Leetcode/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/bcoderg/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1428-jump-game-iii](https://github.com/bcoderg/Leetcode/tree/master/1428-jump-game-iii) |
@@ -345,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/bcoderg/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bcoderg/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0753-open-the-lock](https://github.com/bcoderg/Leetcode/tree/master/0753-open-the-lock) |
+| [0871-keys-and-rooms](https://github.com/bcoderg/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/bcoderg/Leetcode/tree/master/1036-rotting-oranges) |
 | [1428-jump-game-iii](https://github.com/bcoderg/Leetcode/tree/master/1428-jump-game-iii) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/bcoderg/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -398,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0863-sum-of-distances-in-tree](https://github.com/bcoderg/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
+| [0871-keys-and-rooms](https://github.com/bcoderg/Leetcode/tree/master/0871-keys-and-rooms) |
 ## Backtracking
 |  |
 | ------- |
