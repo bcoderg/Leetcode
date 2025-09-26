@@ -219,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bcoderg/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/bcoderg/Leetcode/tree/master/0020-valid-parentheses) |
+| [0091-decode-ways](https://github.com/bcoderg/Leetcode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/bcoderg/Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/bcoderg/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0443-string-compression](https://github.com/bcoderg/Leetcode/tree/master/0443-string-compression) |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/bcoderg/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bcoderg/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/bcoderg/Leetcode/tree/master/0062-unique-paths) |
+| [0091-decode-ways](https://github.com/bcoderg/Leetcode/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/bcoderg/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/bcoderg/Leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bcoderg/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
