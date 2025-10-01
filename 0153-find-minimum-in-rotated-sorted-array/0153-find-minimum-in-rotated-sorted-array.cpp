@@ -3,19 +3,28 @@ public:
     int findMin(vector<int>& nums) {
         int n=nums.size();
         int l=0 , r=n-1;
-        while(l<r){
+        int mn = INT_MAX;
+        while(l<= r){//standard BS type , track min value
             int m=l+(r-l)/2; 
-            if(nums[m]>nums[r]){
-                l=m+1;
+            
+            //minor optimisation(can ignore as well)
+            if(nums[l]<=nums[r]){
+                mn = min(mn , nums[l]);
+                break;
+            }
+
+            if(nums[l] <= nums[m]){
+                mn = min(mn , nums[l]);
+                l = m+1;
             }
             else{
-                r=m;//the m might be the minimum , so we don't do m-1
+                mn = min(mn , nums[m]);
+                r = m - 1;
             }
         }
+        return mn; 
       //0 1 2 3 4
         // 3 4 5 1 2
-        // l   m   r 
-        //       l r 
-        return nums[l];
+        // 
     }
 };
