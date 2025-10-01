@@ -9,7 +9,7 @@ public:
                 l=m+1;
             }
             else{
-                r=m;
+                r=m;//the m might be the minimum , so we don't do m-1
             }
         }
       //0 1 2 3 4
