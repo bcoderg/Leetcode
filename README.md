@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/bcoderg/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bcoderg/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/bcoderg/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0410-split-array-largest-sum](https://github.com/bcoderg/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/bcoderg/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/bcoderg/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bcoderg/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bcoderg/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bcoderg/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0410-split-array-largest-sum](https://github.com/bcoderg/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0475-heaters](https://github.com/bcoderg/Leetcode/tree/master/0475-heaters) |
 | [0658-find-k-closest-elements](https://github.com/bcoderg/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/bcoderg/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/bcoderg/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/bcoderg/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/bcoderg/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/bcoderg/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/bcoderg/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -212,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bcoderg/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/bcoderg/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/bcoderg/Leetcode/tree/master/0135-candy) |
+| [0410-split-array-largest-sum](https://github.com/bcoderg/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/bcoderg/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/bcoderg/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0778-reorganize-string](https://github.com/bcoderg/Leetcode/tree/master/0778-reorganize-string) |
@@ -293,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/bcoderg/Leetcode/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/bcoderg/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0337-house-robber-iii](https://github.com/bcoderg/Leetcode/tree/master/0337-house-robber-iii) |
+| [0410-split-array-largest-sum](https://github.com/bcoderg/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/bcoderg/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/bcoderg/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/bcoderg/Leetcode/tree/master/0518-coin-change-ii) |
