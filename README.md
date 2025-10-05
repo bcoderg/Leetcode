@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/bcoderg/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/bcoderg/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/bcoderg/Leetcode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/bcoderg/Leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/bcoderg/Leetcode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bcoderg/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/bcoderg/Leetcode/tree/master/0198-house-robber) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0078-subsets](https://github.com/bcoderg/Leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/bcoderg/Leetcode/tree/master/0136-single-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/bcoderg/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/bcoderg/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [2308-divide-array-into-equal-pairs](https://github.com/bcoderg/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
