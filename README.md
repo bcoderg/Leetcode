@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/bcoderg/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/bcoderg/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/bcoderg/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/bcoderg/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/bcoderg/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1428-jump-game-iii](https://github.com/bcoderg/Leetcode/tree/master/1428-jump-game-iii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/bcoderg/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-reorganize-string](https://github.com/bcoderg/Leetcode/tree/master/0778-reorganize-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/bcoderg/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0931-maximum-frequency-stack](https://github.com/bcoderg/Leetcode/tree/master/0931-maximum-frequency-stack) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/bcoderg/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/bcoderg/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/bcoderg/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/bcoderg/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/bcoderg/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/bcoderg/Leetcode/tree/master/0778-reorganize-string) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/bcoderg/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/bcoderg/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/bcoderg/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/bcoderg/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/bcoderg/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -255,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-reorganize-string](https://github.com/bcoderg/Leetcode/tree/master/0778-reorganize-string) |
 | [1250-longest-common-subsequence](https://github.com/bcoderg/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/bcoderg/Leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/bcoderg/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/bcoderg/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2390-naming-a-company](https://github.com/bcoderg/Leetcode/tree/master/2390-naming-a-company) |
 | [3617-find-the-original-typed-string-i](https://github.com/bcoderg/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
