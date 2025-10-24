@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1510-find-lucky-integer-in-an-array](https://github.com/bcoderg/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/bcoderg/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/bcoderg/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/bcoderg/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/bcoderg/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2390-naming-a-company](https://github.com/bcoderg/Leetcode/tree/master/2390-naming-a-company) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bcoderg/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/bcoderg/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/bcoderg/Leetcode/tree/master/0778-reorganize-string) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/bcoderg/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/bcoderg/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/bcoderg/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Sliding Window
 |  |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0556-next-greater-element-iii](https://github.com/bcoderg/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [2050-count-good-numbers](https://github.com/bcoderg/Leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/bcoderg/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/bcoderg/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/bcoderg/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/bcoderg/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/bcoderg/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -340,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/bcoderg/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2390-naming-a-company](https://github.com/bcoderg/Leetcode/tree/master/2390-naming-a-company) |
 ## Simulation
 |  |
@@ -478,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/bcoderg/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/bcoderg/Leetcode/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/bcoderg/Leetcode/tree/master/0216-combination-sum-iii) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/bcoderg/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Memoization
 |  |
 | ------- |
