@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/bcoderg/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/bcoderg/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/bcoderg/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/bcoderg/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/bcoderg/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/bcoderg/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Binary Search
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2390-naming-a-company](https://github.com/bcoderg/Leetcode/tree/master/2390-naming-a-company) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bcoderg/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2689-rearranging-fruits](https://github.com/bcoderg/Leetcode/tree/master/2689-rearranging-fruits) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/bcoderg/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -215,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2050-count-good-numbers](https://github.com/bcoderg/Leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/bcoderg/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/bcoderg/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/bcoderg/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/bcoderg/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/bcoderg/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/bcoderg/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
