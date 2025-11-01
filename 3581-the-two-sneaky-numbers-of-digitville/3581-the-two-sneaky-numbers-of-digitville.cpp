@@ -1,7 +1,8 @@
 class Solution {
 public:
     vector<int> getSneakyNumbers(vector<int>& nums) {
-        //bitwise approach
+        //bitwise XOR approach
+        /*
         int totalXor = 0;
         for(auto &x:nums){
               totalXor ^= x;
@@ -34,7 +35,30 @@ public:
               }
         }
         return {xor1 , xor2};
-         
-        //use indices - mark values as negative approach 
+        */
+
+        //to handle 0 - trick incr all by 1 , add val-1 to our answer
+        for(auto &x:nums){//incr by 1
+            x += 1;
+        }
+
+       //use indices - mark values as negative approach 
+       vector<int>ans;
+       for(int i = 0 ; i < nums.size() ; i++)
+       {
+              int val = abs(nums[i]);
+              if(nums[val] < 0){
+                     ans.push_back(val-1);
+              }
+              else{
+                     nums[val] *= -1;
+              }
+       }
+    
+       for(auto &x:nums){ // agian decr back by 1 - to keep data unchanged
+            x -= 1;
+        }
+
+       return ans;
     }
 };
