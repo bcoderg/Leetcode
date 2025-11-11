@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/bcoderg/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/bcoderg/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bcoderg/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0474-ones-and-zeroes](https://github.com/bcoderg/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/bcoderg/Leetcode/tree/master/0475-heaters) |
 | [0496-next-greater-element-i](https://github.com/bcoderg/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bcoderg/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/bcoderg/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bcoderg/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0443-string-compression](https://github.com/bcoderg/Leetcode/tree/master/0443-string-compression) |
+| [0474-ones-and-zeroes](https://github.com/bcoderg/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0556-next-greater-element-iii](https://github.com/bcoderg/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0647-palindromic-substrings](https://github.com/bcoderg/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/bcoderg/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -330,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/bcoderg/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/bcoderg/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/bcoderg/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0474-ones-and-zeroes](https://github.com/bcoderg/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/bcoderg/Leetcode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/bcoderg/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/bcoderg/Leetcode/tree/master/0678-valid-parenthesis-string) |
